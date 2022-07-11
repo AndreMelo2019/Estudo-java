@@ -1,4 +1,4 @@
-package br.com.dio.collection.list.list;
+package br.com.dio.collection.list;
 /*
 Faça um programa que receba a temperatura média dos 6
 primeiros meses do ano e armazene-as em uma lista.

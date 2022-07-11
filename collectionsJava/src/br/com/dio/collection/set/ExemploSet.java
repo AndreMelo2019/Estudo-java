@@ -1,4 +1,4 @@
-package br.com.dio.collection.list.set;
+package br.com.dio.collection.set;
 
 import java.util.*;
 

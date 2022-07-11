@@ -1,4 +1,4 @@
-package br.com.dio.collection.list.list;
+package br.com.dio.collection.list;
 
 public class MediaTemperatura {
     private double janeiro, fevereiro, marco, abril, maio, junho;

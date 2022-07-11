@@ -1,4 +1,4 @@
-package br.com.dio.collection.list.list;
+package br.com.dio.collection.list;
 
 
 import java.util.*;
@@ -6,9 +6,18 @@ import java.util.*;
 public class ExemploList {
     public static void main(String[] args) {
 
+        Map<String, Double> notas1 = new HashMap<>() {{
+            put("Tayanna", 5.5d);
+            put("Fernanda", 7.5d);
+            put("José", 9.0d);
+            put("Carlos", 8d);
+        }};
+
+        System.out.println(notas1);
+
         System.out.println("Crie uma lista e adicione as sete notas: ");
         List<Double> notas = new ArrayList<>();
-        notas.add(7.0);
+        notas.add( 7.0);
         notas.add(8.5);
         notas.add(9.3);
         notas.add(5.0);
