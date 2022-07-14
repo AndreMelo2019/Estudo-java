@@ -6,6 +6,7 @@ e diga quantas consoantes foram lidas.
 Imprima as consoantes.
 */
 
+
 import java.util.Scanner;
 
 public class Consoantes {
